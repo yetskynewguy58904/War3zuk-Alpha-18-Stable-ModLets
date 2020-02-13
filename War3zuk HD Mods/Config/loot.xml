@@ -1,0 +1,27 @@
+<configs>
+		
+	<append xpath="/lootcontainers/lootcontainer[@id='6']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='12']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='43']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='70']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='110']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='40']" >
+		<item name="HD Mods Schematic" count="1" prob="0.005"/>
+	</append>
+
+</configs>

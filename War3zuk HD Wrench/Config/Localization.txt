@@ -1,0 +1,3 @@
+Key,Source,Context,Changes,English
+
+HDWrenchDesc,items,Tools,New,Crafted from the Finest Steel this BadBoi will be there for you Craft a better version by putting skill points into the Salvage Operations Perk.

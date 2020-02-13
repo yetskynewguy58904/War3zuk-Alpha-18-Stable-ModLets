@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English
+
+HDWODesc,blocks,Block Building,,A Fully Working oven that uses NO Fuel.
+
+HDWDDesc,blocks,Block Building,,This Dispenser that will fill Any Glass Jars you may have without the need for water.

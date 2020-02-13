@@ -1,0 +1,13 @@
+Key,Source,Context,Changes,English
+
+HDColtM1911SilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Colts.
+HDDesertEagleSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Desert Eagles.
+HDMac10AutoSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Mac10 Auto.
+HDMossberg500SilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD ShotGuns.
+HDArcticWarfareSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Arctic Warfare.
+
+HDColtM1911Silencer,items,Item,KgNone,HD Colt M1911 Silencer.
+HDDesertEagleSilencer,items,Item,KgNone,HD Desert Eagle Silencer.
+HDMac10AutoSilencer,items,Item,KgNone,HD Mac 10 Auto Silencer.
+HDMossberg500Silencer,items,Item,KgNone,HD Mossberg 500 Silencer.
+HDArcticWarfareSilencer,items,Item,KgNone,HD Arctic Warfare Silencer.

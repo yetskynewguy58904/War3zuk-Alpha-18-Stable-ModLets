@@ -1,0 +1,32 @@
+<config>
+	
+<append xpath="/items">
+		
+<item name="HD Cell">
+	<property name="CustomIcon" value="HD Cell"/>
+	<property name="HoldType" value="45"/>
+	<property name="Tags" value="junk"/>
+	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+	<property name="UnlockedBy" value="perkYeahScience"/>
+	<property name="Material" value="MresourceScrapLeadLarge"/>
+	<property name="Stacknumber" value="1"/>
+	<property name="Weight" value="160"/>
+	<property name="EconomicValue" value="2000"/>
+	<property name="Group" value="Resources,Chemicals"/>
+	<property name="DegradationBreaksAfter" value="false"/>
+	<property name="ShowQuality" value="false"/>
+	<property name="DescriptionKey" value="HDCellDesc"/>
+	<property class="Attributes">
+		<property name="DegradationMax" value="10916,10922"/>
+		<property name="BatteryMaxLoadInVolts" value="10916, 10922"/>
+		<property name="BatteryDischargeTimeInMinutes" value="10916,10922"/>
+	</property>
+	<effect_group>
+		<passive_effect name="ModSlots" operation="base_set" value="0"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="6000,60000" tier="1,6"/>
+	</effect_group>
+</item>
+
+</append>
+</config>

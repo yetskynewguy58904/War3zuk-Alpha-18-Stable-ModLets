@@ -1,0 +1,25 @@
+<configs>
+	
+<append xpath="/buffs">
+	
+<buff name="BuffGuppies" name_key="Guppies" description_key="You Have Contracted Guppies, You have 10 Minutes To Craft And Use The HD Guppy Test Kit Or your Infection Evolves into Syphilis-Z Granting You A Further 60s Of Life." tooltip_key="Shit!! You've Contracted Guppies"  icon="ui_game_symbol_Guppies" remove_on_death="true">
+		<damage_type value="Disease"/>
+		<stack_type value="ignore"/>
+		<duration value="600"/>
+		<effect_group>
+			<triggered_effect trigger="onSelfBuffFinish" action="AddBuff" buff="BuffSyphilis-Z">
+			</triggered_effect>
+		</effect_group>
+	</buff>
+
+<buff name="BuffSyphilis-Z" name_key="Syphilis-Z" description_key="Shit!! You've Contracted Syphilis-Z, Only DEATH Awaits You Now." tooltip_key="You've Contracted Syphilis-Z"  icon="ui_game_symbol_Syphilis-Z" remove_on_death="true">
+		<damage_type value="Disease"/>
+		<stack_type value="ignore"/>
+		<duration value="60"/>
+		<effect_group>
+			<triggered_effect trigger="onSelfBuffFinish" action="ModifyStats" stat="Health" operation="subtract" value="99999999"/>
+		</effect_group>
+	</buff>
+
+</append>
+</configs>

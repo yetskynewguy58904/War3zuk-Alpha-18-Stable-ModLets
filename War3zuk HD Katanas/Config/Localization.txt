@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English
+
+HDKatanaDesc,items,,,HD Katana made from the Finest Steel Just kidding not really its probably Blunt.
+
+HDWakizashiDesc,items,,,HD Wakizashi made from the Finest Steel Just kidding not really its probably Blunt.

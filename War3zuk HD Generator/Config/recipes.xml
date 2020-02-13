@@ -1,0 +1,23 @@
+<configs>
+	
+<append xpath="/recipes">
+	
+
+<recipe name="HD Cell" count="1" craft_time = "30" >
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceDuctTape" count="10"/>
+	<ingredient name="carBattery" count="4"/>
+	<ingredient name="resourceOil" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="50"/>
+</recipe>
+
+<recipe name="HD Generator" count="1" craft_time = "60" >
+	<ingredient name="resourceForgedIron" count="150"/>
+	<ingredient name="resourceMechanicalParts" count="50"/>
+	<ingredient name="resourceElectricParts" count="25"/>
+	<ingredient name="resourceScrapPolymers" count="25"/>
+	<ingredient name="resourceOil" count="10"/>
+</recipe>
+
+</append>
+</configs>

@@ -1,0 +1,13 @@
+<configs>
+	
+<append xpath="/recipes">
+	
+<recipe name="Crop Plot" count="1" craft_time="10">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="foodRottingFlesh" count="1"/>
+	<ingredient name="resourcePotassiumNitratePowder" count="5"/>
+	<ingredient name="resourceClayLump" count="10"/>
+</recipe>
+
+</append>
+</configs>

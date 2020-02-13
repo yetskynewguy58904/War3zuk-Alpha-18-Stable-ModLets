@@ -1,0 +1,78 @@
+<configs>
+	
+<append xpath="/items">
+
+<item name="HD Mini Hatchet">
+	<property name="Extends" value="meleeToolStoneAxe"/>
+	<property name="Tags" value="axe,melee,light,tool,tazas,attStrength,perkMiner69r,perkMotherLode,perkTheHuntsman,canHaveCosmetic"/>
+	<property name="EconomicValue" value="550"/>
+	<property name="Meshfile" value="#@modfolder:Resources/HDMiniHatchet.unity3d?HDMiniHatchet.Prefab"/>
+	<property name="CustomIcon" value="HD Mini Hatchet"/>
+	<property class="Action0">
+		<property name="Sound_start" value="swoosh"/>
+		</property>
+	<effect_group name="meleeToolStoneAxeTazas">
+		<passive_effect name="MaxRange" operation="base_set" value="2.4"/>
+		<passive_effect name="BlockRange" operation="base_set" value="3"/>
+		<passive_effect name="EntityDamage" operation="base_set" value="2"/>
+		<passive_effect name="EntityDamage" operation="perc_add" value="-.15,.15"/>
+		<passive_effect name="EntityDamage" operation="perc_add" value=".1,.5" tier="2,6"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="55"/>
+		<passive_effect name="BlockDamage" operation="perc_add" value="-.15,.15"/>
+		<passive_effect name="BlockDamage" operation="perc_add" value=".1,.5" tier="2,6"/>
+		<passive_effect name="DegradationMax" operation="perc_add" value=".15,.15" tags="perkMiner69r"/>
+		<passive_effect name="AttacksPerMinute" operation="perc_add" value=".05,.05"/>
+		<passive_effect name="StaminaLoss" operation="perc_add" value=".05,.05"/>
+		<display_value name="dBlockRepairAmount" value="150"/>
+		<passive_effect name="AttacksPerMinute" operation="base_set" value="100"/>
+		<passive_effect name="HarvestCount" operation="base_set" value=".7" tags="butcherHarvest"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".85" tags="earth"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".33" tags="stone"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".5" tags="metal"/>
+		<passive_effect name="StaminaLoss" operation="base_set" value="1.5" tags="primary"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="1000,3000" tier="1,6" tags="perkMiner69r"/>
+		<passive_effect name="DegradationPerUse" operation="base_set" value="10" tags="perkMiner69r"/>
+		<passive_effect name="ModSlots" operation="base_set" value="1,1,2,2,3,4" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
+		<passive_effect name="ModPowerBonus" operation="base_add" value="200" tags="EconomicValue"/>
+	</effect_group>
+</item>
+
+<item name="HD Tazas Hatchet">
+	<property name="Extends" value="meleeToolStoneAxe"/>
+	<property name="Tags" value="axe,melee,light,tool,tazas,attStrength,perkMiner69r,perkMotherLode,perkTheHuntsman,canHaveCosmetic"/>
+	<property name="EconomicValue" value="450"/>
+	<property name="Meshfile" value="#@modfolder:Resources/HDMiniHatchet1.unity3d?HDMiniHatchet1.Prefab"/>
+	<property name="CustomIcon" value="HD Tazas Hatchet"/>
+	<property class="Action0">
+		<property name="Sound_start" value="swoosh"/>
+		</property>
+	<effect_group name="meleeToolStoneAxeTazas">
+		<passive_effect name="MaxRange" operation="base_set" value="2.4"/>
+		<passive_effect name="BlockRange" operation="base_set" value="3"/>
+		<passive_effect name="EntityDamage" operation="base_set" value="2"/>
+		<passive_effect name="EntityDamage" operation="perc_add" value="-.15,.15"/>
+		<passive_effect name="EntityDamage" operation="perc_add" value=".1,.5" tier="2,6"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="35"/>
+		<passive_effect name="BlockDamage" operation="perc_add" value="-.15,.15"/>
+		<passive_effect name="BlockDamage" operation="perc_add" value=".1,.5" tier="2,6"/>
+		<passive_effect name="DegradationMax" operation="perc_add" value=".15,.15" tags="perkMiner69r"/>
+		<passive_effect name="AttacksPerMinute" operation="perc_add" value=".05,.05"/>
+		<passive_effect name="StaminaLoss" operation="perc_add" value=".05,.05"/>
+		<display_value name="dBlockRepairAmount" value="150"/>
+		<passive_effect name="AttacksPerMinute" operation="base_set" value="100"/>
+		<passive_effect name="HarvestCount" operation="base_set" value=".7" tags="butcherHarvest"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".55" tags="earth"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".23" tags="stone"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value=".3" tags="metal"/>
+		<passive_effect name="StaminaLoss" operation="base_set" value="1.5" tags="primary"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="1000,3000" tier="1,6" tags="perkMiner69r"/>
+		<passive_effect name="DegradationPerUse" operation="base_set" value="10" tags="perkMiner69r"/>
+		<passive_effect name="ModSlots" operation="base_set" value="1,1,2,2,3,4" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
+		<passive_effect name="ModPowerBonus" operation="base_add" value="200" tags="EconomicValue"/>
+	</effect_group>
+</item>
+
+</append>
+</configs>

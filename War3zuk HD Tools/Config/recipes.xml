@@ -1,0 +1,20 @@
+<configs>
+	
+<append xpath="/recipes">
+	
+<recipe name="HD Auger" craft_area="workbench" count="1"  craft_time = "60" tags="learnable,perkSalvageOperations">
+	<ingredient name="meleeToolAuger" count="1"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceRepairKit" count="10"/>
+	<ingredient name="resourceOil" count="10"/>
+</recipe>
+
+<recipe name="HD Chainsaw" craft_area="workbench" count="1"  craft_time = "60" tags="learnable,perkSalvageOperations">
+	<ingredient name="meleeToolChainsaw" count="1"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceRepairKit" count="10"/>
+	<ingredient name="resourceOil" count="10"/>
+</recipe>
+
+</append>
+</configs>

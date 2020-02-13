@@ -1,0 +1,16 @@
+<configs>
+	
+<append xpath="/blocks">
+	
+<block name="Crop Plot">
+	<property name="Extends" value="farmPlotBlock"/>
+	<property name="CustomIcon" value="farmPlotBlock"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="CanMobsSpawnOn" value="false"/>
+	<drop event="Harvest" name="resourceClayLump" count="0" tag="oreWoodHarvest"/>
+	<drop event="Harvest" name="resourcePotassiumNitratePowder" count="0" tag="oreWoodHarvest"/>
+	<drop event="Destroy" name="Crop Plot" count="1"/>
+</block>
+
+</append>
+</configs>

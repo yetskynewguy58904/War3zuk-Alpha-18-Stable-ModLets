@@ -1,0 +1,14 @@
+<configs>
+	
+<append xpath="/recipes">
+	
+<recipe name="HD Guppy Test Kit" count="1" craft_time = "60">
+	<ingredient name="drugHerbalAntibiotics" count="2"/>
+	<ingredient name="drugAntibiotics" count="2"/>
+	<ingredient name="medicalFirstAidKit" count="5"/>
+	<ingredient name="medicalFirstAidBandage" count="5"/>
+	<ingredient name="medicalBandage" count="10"/>
+</recipe>
+
+</append>
+</configs>

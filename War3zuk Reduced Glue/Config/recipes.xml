@@ -1,0 +1,6 @@
+<configs>
+	
+	<set xpath="/recipes/recipe[@name='resourceGlue'][@craft_area='campfire']/ingredient[@name='resourceBone']/@count">2</set>
+	<set xpath="/recipes/recipe[@name='resourceGlue'][@craft_area='chemistryStation']/ingredient[@name='resourceBone']/@count">1</set>
+	
+</configs>
