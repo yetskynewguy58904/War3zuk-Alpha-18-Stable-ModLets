@@ -41,6 +41,22 @@
 	<ingredient name="resourceSpring" count="5"/>
 	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
+
+<recipe name="HDDragunovSVDScope" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
+	<ingredient name="resourceForgedSteel" count="45"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
+</recipe>
+
+<recipe name="HDDragunovSVDSilencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
+	<ingredient name="resourceForgedSteel" count="55"/>
+	<ingredient name="resourceGlue" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
+</recipe>
 	
 <recipe name="HD Colt M1911" craft_area="HD GunBench" count="1" craft_time = "60" tags="perkGunslinger">
 	<ingredient name="resourceForgedIron" count="15"/>
@@ -119,7 +135,7 @@
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
-<recipe name="HD Spas 12" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Spas 12" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="resourceForgedIron" count="250"/>
 	<ingredient name="resourceMechanicalParts" count="40"/>
 	<ingredient name="resourceDuctTape" count="10"/>
@@ -127,31 +143,31 @@
 	<ingredient name="modDyeBlack" count="2"/>
 </recipe>
 
-<recipe name="HD Spas 12 Street" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Spas 12 Street" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="HD Spas 12" count="1"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="modDyePink" count="1"/>
 </recipe>
 
-<recipe name="HD Spas 12 USA" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Spas 12 USA" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="HD Spas 12" count="1"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="modDyeRed" count="1"/>
 </recipe>
 
-<recipe name="HD Spas 12 Alien" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Spas 12 Alien" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="HD Spas 12" count="1"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="modDyeBlue" count="1"/>
 </recipe>
 
-<recipe name="HD Spas 12 Irish" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Spas 12 Irish" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="HD Spas 12" count="1"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="modDyeGreen" count="1"/>
 </recipe>
 
-<recipe name="HD Mossberg 500" craft_area="HD GunBench" count="1"  craft_time = "60" tags="learnable,perkBoomstick">
+<recipe name="HD Mossberg 500" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkBoomstick">
 	<ingredient name="resourceForgedIron" count="200"/>
 	<ingredient name="resourceMechanicalParts" count="45"/>
 	<ingredient name="resourceDuctTape" count="10"/>
@@ -231,6 +247,22 @@
 	<ingredient name="resourceMechanicalParts" count="25"/>
 	<ingredient name="resourceDuctTape" count="10"/>
 	<ingredient name="resourceScrapPolymers" count="25"/>
+	<ingredient name="resourceSpring" count="5"/>
+</recipe>
+
+<recipe name="HD Winchester 1866" craft_area="HD GunBench" count="1" craft_time = "120" tags="learnable,perkDeadEye">
+	<ingredient name="resourceForgedSteel" count="20"/>
+	<ingredient name="resourceForgedIron" count="100"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceDuctTape" count="5"/>
+	<ingredient name="resourceSpring" count="5"/>
+</recipe>
+
+<recipe name="HD Dragunov SVD" craft_area="HD GunBench" count="1"  craft_time = "100" tags="learnable,perkDeadEye">
+	<ingredient name="resourceForgedSteel" count="200"/>
+	<ingredient name="resourceMechanicalParts" count="25"/>
+	<ingredient name="resourceDuctTape" count="10"/>
+	<ingredient name="resourceWood" count="150"/>
 	<ingredient name="resourceSpring" count="5"/>
 </recipe>
 
@@ -440,6 +472,14 @@
 
 <recipe name="Disassemble 45 ACP Round 10" count="1" craft_time = "0.5" craft_area="HD AmmoBench" >
 	<ingredient name="45 ACP Round" count="10"/>
+</recipe>
+
+<recipe name="Disassemble 408 Round 10" craft_area="HD AmmoBench" craft_time = "0.5">
+	<ingredient name="408 Round" count="10"/>
+</recipe>
+
+<recipe name="Disassemble 50 BMG Round 10" craft_area="HD AmmoBench" craft_time = "0.5">
+	<ingredient name="50 BMG Round" count="10"/>
 </recipe>
 
 <recipe name="HDGun Oil" count="1" craft_time = "2">

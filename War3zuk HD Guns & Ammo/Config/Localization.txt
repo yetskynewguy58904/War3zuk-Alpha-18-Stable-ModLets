@@ -1,6 +1,18 @@
 Key,Source,Context,Changes,English
 
+HDBladeTrapDesc,blocks,,,Titanium Reenforced Blade Trap that requires its Polish to be repaired.
+
+HDDartTrapDesc,blocks,,,Titanium Reenforced Dart Trap that requires its Polish to be repaired.
+
+HDW1866Desc,items,weapons,New,Winchester 1866 continued the trend towards chambering heavier rounds and had an all new and considerably stronger locking block action than the toggle link Model 1886 was a true American express rifle as it could be chambered in the more powerful black powder cartridges of the day such as the .45
+
+HDDSVDDesc,items,weapons,New,The Dragunov is a semi automatic gas operated rifle with a short stroke gas piston system that fires 762 rounds.
+
 HDGunBenchDesc,blocks,,,Build All Weapons And Parts In Here.
+
+HDWorkBenchDesc,blocks,,,Build All Tools And Parts In Here.
+
+HDPicsBenchDesc,blocks,,,Build All XXX Picture Frames And Parts In Here.
 
 HDAmmoBenchDesc,blocks,,,Build All Ammo Types In Here.
 
@@ -13,22 +25,72 @@ HDDesertEagleSilencerDesc,items,,,Military Grade Surpressor that can be attached
 HDMac10AutoSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Mac10 Auto.
 HDMossberg500SilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD ShotGuns.
 HDArcticWarfareSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Arctic Warfare.
+HDDragunovSVDScopeDesc,items,,,Military Grade Scope that can be attached to the HD Dragunov SVD.
+HDDragunovSVDSilencerDesc,items,,,Military Grade Surpressor that can be attached to the HD Dragunov SVD.
 
 HDColtM1911Silencer,items,Item,KgNone,HD Colt M1911 Silencer.
 HDDesertEagleSilencer,items,Item,KgNone,HD Desert Eagle Silencer.
 HDMac10AutoSilencer,items,Item,KgNone,HD Mac 10 Auto Silencer.
 HDMossberg500Silencer,items,Item,KgNone,HD Mossberg 500 Silencer.
 HDArcticWarfareSilencer,items,Item,KgNone,HD Arctic Warfare Silencer.
+HDDragunovSVDScope,items,Item,KgNone,HD Dragunov SVD Scope.
+HDDragunovSVDSilencer,items,Item,KgNone,HD Dragunov SVD Silencer.
 
 HD1911Desc,items,weapons,New,The M1911 also known as the Colt Government is a single action semi automatic magazine fed recoil operated pistol chambered for the 45 ACP Bullet
 
 HD1911ADesc,items,weapons,New,The M1911A1 also known as the Colt Government is a single action semi automatic magazine fed recoil operated pistol chambered for the 45 ACP Bullet
 
+HDFuelSDesc,Block,,,A Very Tough Fuel Tanker for storing Fuel.
+
 HDMac10ADesc,items,weapons,New,The Military Armament Corporation Model 10 officially abbreviated as M10 or M-10 and more commonly known as the MAC-10 is a compact blowback operated machine pistol It is chambered in either 45 ACP or 9mm.
+
+HDPumpJackE,items,Block,KgNone,HD Pump Jack,
+
+HDPumpJackF,items,Block,KgNone,HD Pump Jack,
+
+HDPJEDesc,Block,,,This Pump Jack Will Mine Resources Over Time & Deliver Them For Collection.\n\nLoot From Either The Front Or The Rear Of The Pump
+
+HDMegaVaultDesc,Block,,,A Very Tough Mega Vault for storing Items.
+
+HDTEx5Desc,items,,,Truck Lift = 5Widthx1Depthx6Length.\n\nThis Lift Will Go Up 5 Blocks From Ground Level When Placed.\n\nLift Is Also Lockable
+
+HDTEx10Desc,items,,,Truck Lift = 5Widthx1Depthx6Length.\n\nThis Lift Will Go Up 10 Blocks From Ground Level When Placed.\n\nLift Is Also Lockable
 
 HDSAK47Desc,items,,,The Hybrid AK47 has been Moddified to take the .45 ACP Rounds so it has a quicker fire rate along with less Recoil.
 
+HDHK33HybridDesc,items,,,The Hybrid HK33 has been Moddified to take the .45 ACP Rounds so it has a quicker fire rate along with less Recoil.
+
+HDKatanaDesc,items,,,HD Katana made from the Finest Steel Just kidding not really its probably Blunt.
+
+HDWakizashiDesc,items,,,HD Wakizashi made from the Finest Steel Just kidding not really its probably Blunt.
+
+HDJukeBoxReggaeOFF,items,Item,KgNone,HD JukeBox Reggae OFF,
+
+HDJukeBoxReggaeON,items,Item,KgNone,HD JukeBox Reggae ON,
+
+HDJukeBoxReggaeDesc,items,,,Punch Me To Turn On And Off 5 Tracks Joined that will Autoplay.\n\nTrack 001 Miss Fatty.\n\nTrack 002 Hold Yuh.\n\nTrack 003 Rude Boy.\n\nTrack 004 Wine Slow.\n\nTrack 005 Help me.
+
+HDJukeBoxDubStepOFF,items,Item,KgNone,HD JukeBox DubStep OFF,
+
+HDJukeBoxDubStepON,items,Item,KgNone,HD JukeBox DubStep ON,
+
+HDJukeBoxDesc,items,,,Punch Me To Turn On And Off 5 Tracks Joined that will Autoplay.\n\nTrack 001 In My Mind.\n\nTrack 002 Feel Good.\n\nTrack 003 The Girl.\n\nTrack 004 Entropy.\n\nTrack 005 Ghosts N Stuff.
+
 HDAWarDesc,items,,,The Accuracy International Arctic Warfare rifle was designed and manufactured by the British company Accuracy International It uses the .50 BGM Rounds And can be improved by adding points into the DeadEye Perk.
+
+HDWODesc,blocks,Block Building,,A Fully Working oven that uses NO Fuel.
+
+HDWDDesc,blocks,Block Building,,This Dispenser that will fill Any Glass Jars you may have without the need for water.
+
+PenthroxDesc,items,,,This will Render you Almost invisible to ALL Zombies unless you Engage them.
+
+PoisonVileDesc,items,,,A Key Ingredient in making the Penthrox Injection.
+
+HDGTKitDesc,items,,,The ONLY thing thats stands in the way of Your DEATH.
+
+BulletINCDesc,items,,,Ammo designed to set your target on fire.
+
+BulletSHDesc,items,,,Ammo designed to Shock your target.
 
 HDGunOilDesc,itmes,,,HDGun Oil is required in the making of ALL specialised Repair kits.
 
@@ -50,25 +112,19 @@ HDM134MPDesc,items,,,This is the Housing & Parts of the HD Minigun.
 
 HDM134MMDesc,items,,,This is the Motor & other moving parts to the HD Minigun.
 
-Ammo Supply 9mmDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDFAKDesc,items,,,A More advanced version of the Medical Kit with Max Healing Also removes negative Buffs.
 
-Ammo Supply 44MagDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDLPDesc,items,Tools,New,Hd Lock Picks will allow you to Unlock Hidden Paintings as well as Upgrade broken Work Benches,Forges,Chemistry Stations & Cement Mixers.
 
-Ammo Supply 762mmDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDWrenchDesc,items,Tools,New,Crafted from the Finest Steel this BadBoi will be there for you Craft a better version by putting skill points into the Salvage Operations Perk.
 
-Ammo Supply ShotgunDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDChainsawDesc,items,Tools,New,A High Quality Chainsaw for all your needs Craft a better version by putting skill points into the MotherLode Perk.
 
-Ammo Supply ShotgunSlugDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDAugerDesc,items,Tools,New,A High Quality Auger for all your needs Craft a better version by putting skill points into the MotherLode Perk.
 
-Ammo Supply Breach SlugDesc,items,Ammo,New,You've Just found a bag of ammo !!
+HDMASDesc,items,armor,New,The highest quality money can buy so these give less penalties place points into LightArmor to craft better versions.
 
-Ammo Supply ShredderDesc,items,Ammo,New,You've Just found a bag of ammo !!
-
-Ammo Supply DE50Desc,items,Ammo,New,You've Just found a bag of ammo !!
-
-Ammo Supply 500 AMDesc,items,Ammo,New,You've Just found a bag of .500 AR AutoMax ammo !!
-
-HDEDescitems,items,,,Used in the creation of Shock Ammo.
+HDS12Desc,items,weapons,New,kick Ass And Chew Bubble Gum with this Militart Grade Pump Shotgun Place points into Boomstick to craft a better version.
 
 HDDEDesc,items,weapons,New,The Desert Eagle is a semi automatic handgun notable for chambering the largest centerfire cartridge of any magazine fed self loading pistol place points into Gunslinger to craft better version.
 
@@ -76,11 +132,47 @@ HDM4A1CDesc,items,weapons,New,The M4A1 carbine is a fully automatic variant of t
 
 HDTARDesc,items,weapons,New,Manufactured with extensive use of aluminum alloys and synthetic materials. It is a semi-automatic version of the United States military M16 rifle place points into MachineGunner to craft better versions.
 
-HDM500Desc,items,weapons,New,kick Ass And Chew Bubble Gum with this Militart Grade Mossberg 500 Shotgun Place points into Boomstick to craft a better version.
+Ammo Supply 500 AMDesc,items,Ammo,New,You've Just found a bag of .500 AR AutoMax ammo !!
 
-BulletINCDesc,items,,,Ammo designed to set your target on fire.
+WW5000Desc,items,tools,New,A simple tool for clearing weeds and collecting grass.
 
-BulletSHDesc,items,,,Ammo designed to Shock your target.
+FBDesc,items,resource,new,A Forged Brass Ingot is 1 of the ingredients of Congealed Metal.
+
+FTDesc,items,resource,new,A Forged Titanium Ingot is 1 of the ingredients of Congealed Metal.
+
+SPDesc,items,resource,new,Polished Steel Blocks withstand more and resist explosion damage x1.75 12k Health.
+
+TPDesc,items,resource,new,Polished Titanium Blocks withstand more and resist explosion damage x2.0 20k Health.
+
+CMDesc,items,resource,new,Congealed Metal is an amalgamation of Both Brass And Titanium used in high end polishes.
+
+HDForgeDesc,blocks,,,Used to smelt advanced metals like Brass And Titanium.
+
+DonnasFubarStewDesc,items,Food,New,Donnas Fubar Stew comes straight from the Heart & Warms your Balls as well as your Soul.
+
+DonnasFubarSteakDesc,items,Food,New,A Fubar Steak used in making the Fubar Stew.
+
+HDCellDesc,items,,,A specialised Hd Battery Cell that once applied will act like a Mini Nuclear power plant.
+
+HDXDesc,items,,,Xcalibur the ONLY bashing tool you need early game.
+
+HDGDesc,items,,,Hd Genny requires 6 Hd Cells to power it up Produces a Billion BaGigga watts.
+
+HDMiniHDesc,items,,,A simple replacement for the early game Axe much better & more durable.
+
+BSFDesc,items,,,You have found a Building Supply Flare left click the ground when active to spawn the crate.
+
+HSFDesc,items,,,You have found a Health Supply Flare left click the ground when active to spawn the crate.
+
+ASFDesc,items,,,You have found a Ammo Supply Flare left click the ground when active to spawn the crate.
+
+FSFDesc,items,,,You have found a Food Supply Flare left click the ground when active to spawn the crate.
+
+HDEDescitems,,,Used in the creation of Shock Ammo.
+
+HDNFDesc,items,,,A self upgrading Wood Frame For Noobs goes from Wood to Rwood to Iron at 1k Health
+
+HDRDDesc,items,,,A Titanium Re-Enforced Rolling Door to secure you from those Brain Eating Morons.
 
 D9A10Desc,items,Ammo,New,Now that your 9mm Ammo has been converted.\n\nOpen this item to convert it back to 50% of its original resources.,,,,,
 
@@ -115,3 +207,17 @@ DSBreachSA10Desc,items,Ammo,New,Now that your ShotGun Breaching Ammo has been co
 DMC10Desc,items,Ammo,New,Now that your Molotov Cocktail Ammo has been converted.\n\nOpen this item to convert it back to 50% of its original resources.,,,,,
 
 D45ACPR10Desc,items,Ammo,New,Now that your 45 ACP Ammo has been converted.\n\nOpen this item to convert it back to 50% of its original resources.,,,,,
+
+D408Desc,items,Ammo,New,Now that your 45 ACP Ammo has been converted.\n\nOpen this item to convert it back to 50% of its original resources.,,,,,
+
+D50BMGDesc,items,Ammo,New,Now that your 45 ACP Ammo has been converted.\n\nOpen this item to convert it back to 50% of its original resources.,,,,,
+
+ClassBuilderDesc,items,,,You have crafted your Class.\n\nOpen this item to recieve your starter pack.,,,,,
+
+45ACPRoundDesc,items,,,45 ACP Rounds are used in the M1911A as well as the HybridAK ACP
+
+DERoundDesc,items,,,Deagle Rounds are used in the HD Desert Eagle.
+
+50BMGRoundDesc,items,,,50 BMG Rounds are used in the HD Arctic Warfare.
+
+408RoundDesc,items,,,408 Rounds are used in the HD CheyTac M300.

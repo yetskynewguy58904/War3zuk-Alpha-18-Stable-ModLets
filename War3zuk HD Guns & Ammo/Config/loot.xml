@@ -29,6 +29,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='12']" >
@@ -54,6 +56,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='22']" >
@@ -83,6 +87,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='40']" >
@@ -102,6 +108,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='43']" >
@@ -133,6 +141,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='53']" >
@@ -169,6 +179,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='110']" >
@@ -200,6 +212,8 @@
 		<item name="HD CheyTac M300 Schematic" count="1" prob="0.005"/>
 		<item name="HD M3 Auto Schematic" count="1" prob="0.005"/>
 		<item name="HD Double Barrel Schematic" count="1" prob="0.005"/>
+		<item name="HD Winchester 1866 Schematic" count="1" prob="0.005"/>
+		<item name="HD Dragunov SVD Schematic" count="1" prob="0.005"/>
 	</append>
 
 </configs>
