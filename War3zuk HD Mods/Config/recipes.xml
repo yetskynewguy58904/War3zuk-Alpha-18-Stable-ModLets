@@ -2,58 +2,60 @@
 	
 	 <append xpath="/recipes">
 		 
-<recipe name="HDColtM1911Silencer" count="1" craft_area="workbench" tags="learnable">
+<recipe name="HDColtM1911Silencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
 	<ingredient name="resourceForgedSteel" count="10"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="5"/>
-	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
 
-<recipe name="HDDesertEagleSilencer" count="1" craft_area="workbench" tags="learnable">
+<recipe name="HDDesertEagleSilencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
 	<ingredient name="resourceForgedSteel" count="15"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="5"/>
-	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
 
-<recipe name="HDMac10AutoSilencer" count="1" craft_area="workbench" tags="learnable">
+<recipe name="HDMac10AutoSilencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
 	<ingredient name="resourceForgedSteel" count="25"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="5"/>
-	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
 
-<recipe name="HDMossberg500Silencer" count="1" craft_area="workbench" tags="learnable">
+<recipe name="HDMossberg500Silencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
 	<ingredient name="resourceForgedSteel" count="45"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="5"/>
-	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<recipe name="HDArcticWarfareSilencer" count="1" craft_area="workbench" tags="learnable">
+<recipe name="HDArcticWarfareSilencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
 	<ingredient name="resourceForgedSteel" count="45"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="5"/>
-	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
+</recipe>
+
+<recipe name="HDDragunovSVDScope" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
+	<ingredient name="resourceForgedSteel" count="45"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
+</recipe>
+
+<recipe name="HDDragunovSVDSilencer" count="1" craft_time = "60" craft_area="HD GunBench" tags="learnable">
+	<ingredient name="resourceForgedSteel" count="55"/>
+	<ingredient name="resourceGlue" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="5"/>
+	<ingredient name="HDGun Oil" count="5"/>
 </recipe>
 
 </append>
