@@ -2,7 +2,6 @@
 	
 	<append xpath="/items/item/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">Steel Polish</append>
 	<append xpath="/items/item/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">Titanium Polish</append>
-	
 	<set xpath="/items/item/property[@name='Stacknumber' and not(@value='1')]/@value">25000</set>
 	
 	<set xpath="/items/item[@name='gunToolNailgun']/property[@class='Action1']/property[@name='Delay']/@value">0.1</set>
@@ -18,6 +17,12 @@
 	<set xpath="/items/item[@name='carBattery']/property[@name='Stacknumber']/@value">25000</set>
 	<set xpath="/items/item[@name='solarCell']/property[@name='Stacknumber']/@value">25000</set>
 	<set xpath="/items/item[@name='casinoCoin']/property[@name='Stacknumber']/@value">25000</set>
+	
+	<set xpath="/items/item[starts-with(@name,'vehicle') and contains(@name,'Placeable')]/property[@name='SellableToTrader' and @value='false']/@value">true</set>
+	<set xpath="/items/item[@name='vehicleMinibikePlaceable']/property[@name='EconomicValue'][@value='6000']/@value">5000</set>
+	<set xpath="/items/item[@name='vehicleMotorcyclePlaceable']/property[@name='EconomicValue'][@value='10000']/@value">7500</set>
+	<set xpath="/items/item[@name='vehicle4x4TruckPlaceable']/property[@name='EconomicValue'][@value='30000']/@value">9000</set>
+	<set xpath="/items/item[@name='vehicleGyrocopterPlaceable']/property[@name='EconomicValue'][@value='50000']/@value">12500</set>
 	
 <append xpath="/items">
 
