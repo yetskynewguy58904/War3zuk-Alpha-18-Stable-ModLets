@@ -2,7 +2,7 @@
 	
 <append xpath="/recipes">
 
-<recipe name="HD Forge" count="1" craft_time = "60">
+<recipe name="HD Forge" count="1" craft_time="60" tags="learnable">
 	<ingredient name="resourceRockSmall" count="100"/>
 	<ingredient name="resourceClayLump" count="100"/>
 	<ingredient name="resourceForgedIron" count="10"/>
