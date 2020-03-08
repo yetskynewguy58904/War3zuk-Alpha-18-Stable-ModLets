@@ -1,4 +1,5 @@
 <config>
+	
     <append xpath="/blocks">
         
 <block name="HD Generator">
@@ -16,8 +17,8 @@
 	<property name="DescriptionKey" value="powerSourceDesc"/>
 	<property name="UnlockedBy" value="perkAdvancedEngineering,batterybankSchematic"/>
 	<property name="MaxPower" value="65535"/>
-	<property name="InputPerTick" value="100"/>
-	<property name="ChargePerInput" value="100"/>
+	<property name="InputPerTick" value="1000"/>
+	<property name="ChargePerInput" value="1000"/>
 	<property name="OutputPerStack" value="10922"/>
 	<property name="OutputPerCharge" value="10922"/>
 	<property name="SlotItem" value="HD Cell"/>

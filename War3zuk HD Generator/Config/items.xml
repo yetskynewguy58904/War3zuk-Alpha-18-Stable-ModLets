@@ -1,6 +1,6 @@
 <config>
 	
-<append xpath="/items">
+	<append xpath="/items">
 		
 <item name="HD Cell">
 	<property name="CustomIcon" value="HD Cell"/>
